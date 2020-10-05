@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/absence.com.co/static/css/main.5f361e03.chunk.css",
-    "main.js": "/absence.com.co/static/js/main.0b780469.chunk.js",
-    "main.js.map": "/absence.com.co/static/js/main.0b780469.chunk.js.map",
+    "main.css": "/absence.com.co/static/css/main.2dca4a3f.chunk.css",
+    "main.js": "/absence.com.co/static/js/main.6d40a246.chunk.js",
+    "main.js.map": "/absence.com.co/static/js/main.6d40a246.chunk.js.map",
     "runtime-main.js": "/absence.com.co/static/js/runtime-main.8c4062d0.js",
     "runtime-main.js.map": "/absence.com.co/static/js/runtime-main.8c4062d0.js.map",
-    "static/js/2.b41ae6b5.chunk.js": "/absence.com.co/static/js/2.b41ae6b5.chunk.js",
-    "static/js/2.b41ae6b5.chunk.js.map": "/absence.com.co/static/js/2.b41ae6b5.chunk.js.map",
+    "static/js/2.41b43cde.chunk.js": "/absence.com.co/static/js/2.41b43cde.chunk.js",
+    "static/js/2.41b43cde.chunk.js.map": "/absence.com.co/static/js/2.41b43cde.chunk.js.map",
     "index.html": "/absence.com.co/index.html",
-    "precache-manifest.f38aa3c4fdcfabb6fd5983c6d56b2655.js": "/absence.com.co/precache-manifest.f38aa3c4fdcfabb6fd5983c6d56b2655.js",
+    "precache-manifest.39e0015fa5f81f9fbe2fb1f1917b6d4d.js": "/absence.com.co/precache-manifest.39e0015fa5f81f9fbe2fb1f1917b6d4d.js",
     "service-worker.js": "/absence.com.co/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/absence.com.co/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b41ae6b5.chunk.js.LICENSE.txt": "/absence.com.co/static/js/2.b41ae6b5.chunk.js.LICENSE.txt"
+    "static/css/main.2dca4a3f.chunk.css.map": "/absence.com.co/static/css/main.2dca4a3f.chunk.css.map",
+    "static/js/2.41b43cde.chunk.js.LICENSE.txt": "/absence.com.co/static/js/2.41b43cde.chunk.js.LICENSE.txt",
+    "static/media/Portada.png": "/absence.com.co/static/media/Portada.6eaa2057.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8c4062d0.js",
-    "static/js/2.b41ae6b5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b780469.chunk.js"
+    "static/js/2.41b43cde.chunk.js",
+    "static/css/main.2dca4a3f.chunk.css",
+    "static/js/main.6d40a246.chunk.js"
   ]
 }
