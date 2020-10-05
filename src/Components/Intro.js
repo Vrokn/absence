@@ -4,16 +4,12 @@ import { Container } from 'react-bootstrap';
 
 export default function Intro() {
     return (
-        <Container className={'intro'} id='home' fluid>
+        <Container className={'intro'} fluid>
             <h1>&sdot; <Typed
-                    strings={[
-                        " Hello! I'm Mateo ",
-                        " Web developer ",
-                        " Artist ",
-                        " Music producer "]}
-                    typeSpeed={60}
-                    backSpeed={50}
-                    loop /> &sdot;</h1>
+                strings={["Absence Recs.", "Halloween Pool Party", '31.10.2020', 'Viotá, Cundinamarca']}
+                typeSpeed={60}
+                backSpeed={50}
+                loop /> &sdot;</h1>
         </Container>
     )
 }

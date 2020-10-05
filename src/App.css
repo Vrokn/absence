@@ -1,38 +1,128 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: linear-gradient( to bottom, #4c9fc8, #edc9dd, #de8b90, #f0e88a) !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f0e88a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #054666;
+}
+
 .App {
+  height: 100%;
+  color: #420a0d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+  color: #571115;
+  position: absolute;
+  text-align: center;
+  top: 45vh;
+  width: 100%;
+  font-family: 'Michroma', sans-serif;
+  text-shadow: 3px 3px 5px #96c4f0;
+}
+
+.works {
+  position: relative;
+  text-align: center;
+  top: 95vh;
+  width: 100%;
+  font-family: 'Michroma', sans-serif;
+  text-shadow: 3px 3px 5px #96c4f0;
+}
+
+.header {
+  z-index: 2;
+}
+
+h2, .header {
+  font-family: 'Michroma', sans-serif;
+  color: black;
+}
+
+h2 {
+  padding: 2em;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#tsparticles {
+  background: transparent;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media (max-width: 768px) {
+  html, body {
+    min-height: 370rem !important;
+    height: 400em;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  min-height: 270rem;
+}
+
+.containerfade {
+  position: relative;
+  top: 0vh;
   display: flex;
-  flex-direction: column;
+  flex-flow: row nowrap;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.description {
+  text-align: justify;
+  text-shadow: 3px 3px 5px #96c4f0;
+  display: flex;
+  flex-direction: column;
+  top: 100vh;
+  position: relative;
+  max-width: 65%;
+  z-index: 1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a {
+  font-family: 'Michroma', sans-serif;
+  color: #571115;
+}
+
+.refLink {
+  text-align: center;
+  font-size: 2em;
+}
+
+a:hover {
+  transform: translateY(5px);
+  text-decoration: none;
+  color: rgb(15, 71, 121);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding: 15%;
+}
+
+.contact {
+  text-align: center;
+  top: 150vh;
+  position: relative;
 }

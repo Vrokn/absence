@@ -8,7 +8,7 @@ export default function Particulas() {
             id="tsparticles"
             options={{
                 background: {
-                    image: 'linear-gradient(to bottom, #000000 0%, #080316 100%)',
+                    image: 'linear-gradient( to bottom, #4c9fc8, #edc9dd, #de8b90, #f0e88a)',
                     repeat: 'no-repeat',
                     size: 'cover',
                     position: 'center center',
@@ -73,7 +73,7 @@ export default function Particulas() {
                             enable: true,
                             value_area: 15000,
                         },
-                        value: 200,
+                        value: 300,
                     },
                     opacity: {
                         value: 0.5,
