@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www.absence.com.co/static/css/main.5f361e03.chunk.css",
+    "main.js": "/www.absence.com.co/static/js/main.c0697bb0.chunk.js",
+    "main.js.map": "/www.absence.com.co/static/js/main.c0697bb0.chunk.js.map",
+    "runtime-main.js": "/www.absence.com.co/static/js/runtime-main.962a6ba5.js",
+    "runtime-main.js.map": "/www.absence.com.co/static/js/runtime-main.962a6ba5.js.map",
+    "static/js/2.4085cd09.chunk.js": "/www.absence.com.co/static/js/2.4085cd09.chunk.js",
+    "static/js/2.4085cd09.chunk.js.map": "/www.absence.com.co/static/js/2.4085cd09.chunk.js.map",
+    "index.html": "/www.absence.com.co/index.html",
+    "precache-manifest.834e0c4995b807804d536658644beab8.js": "/www.absence.com.co/precache-manifest.834e0c4995b807804d536658644beab8.js",
+    "service-worker.js": "/www.absence.com.co/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/www.absence.com.co/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4085cd09.chunk.js.LICENSE.txt": "/www.absence.com.co/static/js/2.4085cd09.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.absence.com.co/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.962a6ba5.js",
+    "static/js/2.4085cd09.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c0697bb0.chunk.js"
+  ]
+}
