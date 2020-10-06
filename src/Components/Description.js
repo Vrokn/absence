@@ -1,13 +1,15 @@
 import React from 'react';
 import { Container, Image } from 'react-bootstrap';
 import image from './Portada.png'
+import storie from './Feed.png'
+
 
 export default function Description() {
 
     return (
         <Container className={'description'} id='about' fluid >
             <h2>ABSENCE HALLOWEEN POOL PARTY</h2>            <br></br>
-            <Image src={image} fluid />   <br></br> <br></br>          <p>¿QUÉ ES?<br></br>
+            <Image src={storie} fluid />   <br></br> <br></br>          <p>¿QUÉ ES?<br></br>
             Es el primer Pool Party que se llevará a cabo en Colombia en tiempos de pandemia de COVID-19 cumpliendo el 100% de los requerimientos legales actuales; Todos los asistentes deberán someterse a una prueba antes de asistir a fin de hacer el mejor esfuerzo posible para que la celebración de la cultura no tenga efectos negativos en la salud de los asistentes ni del resto de la población.
             <br></br>            <hr></hr>
             ¿DÓNDE?<br></br>
