@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/absence.com.co/static/css/main.2dca4a3f.chunk.css",
+    "main.css": "/absence.com.co/static/css/main.663efd6b.chunk.css",
     "main.js": "/absence.com.co/static/js/main.6d40a246.chunk.js",
     "main.js.map": "/absence.com.co/static/js/main.6d40a246.chunk.js.map",
     "runtime-main.js": "/absence.com.co/static/js/runtime-main.8c4062d0.js",
@@ -8,16 +8,16 @@
     "static/js/2.41b43cde.chunk.js": "/absence.com.co/static/js/2.41b43cde.chunk.js",
     "static/js/2.41b43cde.chunk.js.map": "/absence.com.co/static/js/2.41b43cde.chunk.js.map",
     "index.html": "/absence.com.co/index.html",
-    "precache-manifest.6bf00e01beda811bed1d46cb71878fa9.js": "/absence.com.co/precache-manifest.6bf00e01beda811bed1d46cb71878fa9.js",
+    "precache-manifest.43655e945432e1e5ea2b1b8c057c5caa.js": "/absence.com.co/precache-manifest.43655e945432e1e5ea2b1b8c057c5caa.js",
     "service-worker.js": "/absence.com.co/service-worker.js",
-    "static/css/main.2dca4a3f.chunk.css.map": "/absence.com.co/static/css/main.2dca4a3f.chunk.css.map",
+    "static/css/main.663efd6b.chunk.css.map": "/absence.com.co/static/css/main.663efd6b.chunk.css.map",
     "static/js/2.41b43cde.chunk.js.LICENSE.txt": "/absence.com.co/static/js/2.41b43cde.chunk.js.LICENSE.txt",
     "static/media/Portada.png": "/absence.com.co/static/media/Portada.6eaa2057.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8c4062d0.js",
     "static/js/2.41b43cde.chunk.js",
-    "static/css/main.2dca4a3f.chunk.css",
+    "static/css/main.663efd6b.chunk.css",
     "static/js/main.6d40a246.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/absence.com.co/precache-manifest.6bf00e01beda811bed1d46cb71878fa9.js"
+  "/absence.com.co/precache-manifest.43655e945432e1e5ea2b1b8c057c5caa.js"
 );
 
 self.addEventListener('message', (event) => {

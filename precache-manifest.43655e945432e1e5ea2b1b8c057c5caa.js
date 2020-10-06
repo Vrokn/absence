@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eba9ecb72b3f8a86403402977eaec797",
+    "revision": "93822fde7774444cdb91870ea14825ad",
     "url": "/absence.com.co/index.html"
   },
   {
-    "revision": "52e2d7d2be190a591585",
-    "url": "/absence.com.co/static/css/main.2dca4a3f.chunk.css"
+    "revision": "b82a919614615bd5fa21",
+    "url": "/absence.com.co/static/css/main.663efd6b.chunk.css"
   },
   {
     "revision": "a4a0ad0660863b59343f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/absence.com.co/static/js/2.41b43cde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52e2d7d2be190a591585",
+    "revision": "b82a919614615bd5fa21",
     "url": "/absence.com.co/static/js/main.6d40a246.chunk.js"
   },
   {
