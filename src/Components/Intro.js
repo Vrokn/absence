@@ -6,7 +6,7 @@ export default function Intro() {
     return (
         <Container className={'intro'} fluid>
             <h1>&sdot; <Typed
-                strings={["Absence Recs.", "Halloween Pool Party", '31.10.2020', 'Viotá, Cundinamarca']}
+                strings={["Absence Recs.", "Halloween Pool Party", '31.10.2020']}
                 typeSpeed={60}
                 backSpeed={50}
                 loop /> &sdot;</h1>
