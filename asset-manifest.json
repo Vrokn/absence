@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/absence.com.co/static/css/main.663efd6b.chunk.css",
-    "main.js": "/absence.com.co/static/js/main.6d40a246.chunk.js",
-    "main.js.map": "/absence.com.co/static/js/main.6d40a246.chunk.js.map",
-    "runtime-main.js": "/absence.com.co/static/js/runtime-main.8c4062d0.js",
-    "runtime-main.js.map": "/absence.com.co/static/js/runtime-main.8c4062d0.js.map",
-    "static/js/2.41b43cde.chunk.js": "/absence.com.co/static/js/2.41b43cde.chunk.js",
-    "static/js/2.41b43cde.chunk.js.map": "/absence.com.co/static/js/2.41b43cde.chunk.js.map",
-    "index.html": "/absence.com.co/index.html",
-    "precache-manifest.43655e945432e1e5ea2b1b8c057c5caa.js": "/absence.com.co/precache-manifest.43655e945432e1e5ea2b1b8c057c5caa.js",
-    "service-worker.js": "/absence.com.co/service-worker.js",
-    "static/css/main.663efd6b.chunk.css.map": "/absence.com.co/static/css/main.663efd6b.chunk.css.map",
-    "static/js/2.41b43cde.chunk.js.LICENSE.txt": "/absence.com.co/static/js/2.41b43cde.chunk.js.LICENSE.txt",
-    "static/media/Portada.png": "/absence.com.co/static/media/Portada.6eaa2057.png"
+    "main.css": "/static/css/main.663efd6b.chunk.css",
+    "main.js": "/static/js/main.b7e34915.chunk.js",
+    "main.js.map": "/static/js/main.b7e34915.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6abec67f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6abec67f.js.map",
+    "static/js/2.41b43cde.chunk.js": "/static/js/2.41b43cde.chunk.js",
+    "static/js/2.41b43cde.chunk.js.map": "/static/js/2.41b43cde.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3793ff0d2e9442c0df728ec0b03937c5.js": "/precache-manifest.3793ff0d2e9442c0df728ec0b03937c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.663efd6b.chunk.css.map": "/static/css/main.663efd6b.chunk.css.map",
+    "static/js/2.41b43cde.chunk.js.LICENSE.txt": "/static/js/2.41b43cde.chunk.js.LICENSE.txt",
+    "static/media/Portada.png": "/static/media/Portada.6eaa2057.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c4062d0.js",
+    "static/js/runtime-main.6abec67f.js",
     "static/js/2.41b43cde.chunk.js",
     "static/css/main.663efd6b.chunk.css",
-    "static/js/main.6d40a246.chunk.js"
+    "static/js/main.b7e34915.chunk.js"
   ]
 }
