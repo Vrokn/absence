@@ -31,15 +31,6 @@
   text-shadow: 3px 3px 5px #96c4f0;
 }
 
-.works {
-  position: relative;
-  text-align: center;
-  top: 95vh;
-  width: 100%;
-  font-family: 'Michroma', sans-serif;
-  text-shadow: 3px 3px 5px #96c4f0;
-}
-
 .header {
   z-index: 2;
 }
@@ -63,7 +54,7 @@ h2 {
 
 @media (max-width: 766px) {
   html, body {
-    min-height: 340rem !important;
+    min-height: 360rem !important;
     height: 300em;
     width: 100%;
   }

@@ -1,6 +1,5 @@
 import React from 'react';
 import { Container, Image } from 'react-bootstrap';
-import image from './Portada.png'
 import storie from './Feed.png'
 
 
@@ -25,7 +24,7 @@ export default function Description() {
             El día antes del evento se pondrá a disposición de los asistentes una locación en Bogotá en donde una enfermera capacitada practicará las pruebas de COVID-19 de 3PM a 9PM. El resultado de la prueba tarda 10 minutos y el asistente podrá saber si tiene COVID-19 en ese momento o si lo tuvo en el pasado.
             <br></br>            <hr></hr>
             ¿QUÉ TIPO DE PRUEBA DE COVID SE PRÁCTICA Y CUÁL ES SU CONFIABILIDAD?<br></br>
-            Las pruebas utilizadas son las de SD BIOSENSOR que se utilizan en el Aeropuerto el Dorado en Bogotá. Tinen registro sanitario del INVIMA y validación secundaria y verificación de desempleño de prueba rápida "COVID-19 IgG/IgM Duo del Instituto Nacional de Salud". La documentación asociada puede ser solicitada en la línea de atención del evento.
+            Las pruebas utilizadas son las de SD BIOSENSOR que se utilizan en el Aeropuerto el Dorado en Bogotá. Tinen registro sanitario del INVIMA y validación secundaria y verificación de desempeño de prueba rápida "COVID-19 IgG/IgM Duo del Instituto Nacional de Salud". La documentación asociada puede ser solicitada en la línea de atención del evento.
             <br></br>            <hr></hr>
             ¿QUÉ PASA SI EL RESULTADO DE MI PRUEBA DE COVID-19 ES POSITIVO?<br></br>
             Lamentablemente, no podrás acompañarnos al evento, pero podrás ceder tu entrada a otra persona si ella paga el valor de la prueba (85K) y obtiene un resultado negativo.
@@ -51,9 +50,9 @@ export default function Description() {
             ¿LINE UP?<br></br>
             &sdot; ✔️ HEADLINER TBA            <br></br>
             &sdot; ✔️ SEBASTIÁN ORTÍZ (Baum)            <br></br>
-            &sdot;✔️ STAV (Baum)            <br></br>
-            &sdot;  ✔️ VALERIO (Octava)            <br></br>            <br></br>
-            &sdot;Aleja Vargas (Deejay Academy)            <br></br>
+            &sdot; ✔️ STAV (Baum)            <br></br>
+            &sdot; ✔️ VALERIO (Octava)            <br></br>       
+            &sdot; Aleja Vargas (Deejay Academy)            <br></br>
             &sdot; Cast Lov (Clap Team)            <br></br>
             &sdot; Harvey Tie (Absence)<br></br>
             &sdot; Gabriel Forero (Aftermath)<br></br>
